@@ -1,0 +1,106 @@
+body {
+    background-color: #DDFFFF;
+    color: #004400;
+    font-family: Monotype Corsiva, Times new Roman, Courier;
+    width: 30%;
+    margin: 0 auto;
+    font-size: large;
+}
+
+ul li h1 {
+    font-size: larger;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: Times new Roman, Courier;
+}
+
+hr {
+    border: 1px solid #42ad63;
+    border-radius: 10px;
+}
+
+a,
+a:hover,
+a:active {
+    color: #004400;
+    font-family: Times new Roman, Courier;
+    font-weight: bold;
+}
+
+table{
+font-family: Times new Roman, Courier;
+}
+
+img{
+    height: 150px;
+    float: left;
+    padding-right: 30px;
+}
+
+#betutipus{
+    font-family:Courier;
+    font-weight: bold;
+}
+#a{
+    font-family: Times new Roman, Courier;
+}
+
+#elsotable {
+    background-color: #8cdead;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    width: 400px;
+    height: 150px;
+}
+
+#elsotable tr:first-child,
+#elsotable tr:last-child {
+    background-color: #42ad63;
+    height: 10px;
+}
+
+#masodiktable {
+    background-color: #8cdead;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 500px;
+}
+
+#masodiktable tr td {
+    border-style: ridge;
+}
+
+#utso {
+    text-align: center;
+}
+
+#balszoveg{
+    text-align: left;
+    font-weight: bold;
+}
+
+#jobbszoveg{
+    text-align: right;
+    font-weight: bold;
+}
+
+div #jobbszoveg{
+    text-align: right;
+    font-weight: normal;
+}
+
+#nagyszoveg{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Times new Roman, Courier;
+    background-color:#adffce;
+    color: #004200;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border: 10px solid #42ad63;
+    border-style: groove;
+    text-decoration: none;
+}
